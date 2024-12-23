@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700278658385",
+    "project_id": "oora-f2972",
+    "storage_bucket": "oora-f2972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700278658385:android:60ce0ead0e33025e242f70",
+        "android_client_info": {
+          "package_name": "com.example.oora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPBFvOQheifkMYBe0mkWdlvjHXplNPisE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

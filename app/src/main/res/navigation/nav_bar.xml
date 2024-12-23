@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_bar">
+
+
+
+    <activity
+        android:id="@+id/homemenu"
+        android:name="com.example.oora.Mainpage"
+        tools:layout="@layout/activity_mainpage"
+        android:label="Home"
+        />
+
+    <activity
+        android:id="@+id/cartmenu"
+        android:name="com.example.oora.add_cart"
+        tools:layout="@layout/activity_add_cart"
+        android:label="cart"
+        />
+
+    <activity
+        android:id="@+id/profilemenu"
+        android:name="com.example.oora.Profile"
+        tools:layout="@layout/activity_profile"
+        android:label="profile"
+        />
+
+</navigation>

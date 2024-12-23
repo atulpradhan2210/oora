@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Experiment" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/teal_200</item>
+    </style>
+    <style name="alfa" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#99E4DD</item>
+        <item name="actionBarSize">40dp</item> <!-- Set desired height -->
+
+    </style>
+
+</resources>
